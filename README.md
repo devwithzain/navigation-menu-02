@@ -1,4 +1,4 @@
-# Left Side Menu Component Created with
+# Navigation Menu Component 02 Created with
 
 - Next Js ✅
 - TypeScript ✅
@@ -8,4 +8,4 @@
 
 # Preview
 
-<img width="100%" height="100%" src="https://github.com/devwithzain/menu-components/assets/131141179/e7baf9a1-fd5c-4d1f-bf15-1e80af775fc1" />
+<img width="100%" height="100%" src="https://github.com/user-attachments/assets/9c9ea8be-5148-4773-9cfc-9244fb2076b1" />
