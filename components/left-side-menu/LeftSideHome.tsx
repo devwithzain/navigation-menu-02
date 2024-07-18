@@ -21,7 +21,7 @@ export default function LeftSideHome() {
 					}}
 					className="w-[60px] h-[60px] rounded-full bg-[#455ce9] cursor-pointer flex items-center justify-center relative">
 					<div
-						className={`w-[50%] h-[2px] bg-white absolute top-[50%] ${
+						className={`w-[50%] h-[2px] bg-white absolute ${
 							!isActive && "top-[45%]"
 						} transform -translate-x-1/2 -translate-y-1/2`}
 						style={{
@@ -30,7 +30,7 @@ export default function LeftSideHome() {
 						}}
 					/>
 					<div
-						className={`w-[50%] h-[2px] bg-white absolute top-[50%] ${
+						className={`w-[50%] h-[2px] bg-white absolute ${
 							!isActive && "top-[55%]"
 						} transform -translate-x-1/2 -translate-y-1/2`}
 						style={{
